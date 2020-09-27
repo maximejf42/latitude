@@ -41,7 +41,7 @@
     "execa": "^0.4.0",
     "left-pad": "^1.1.1",
     "meow": "^3.7.0",
-    "ora": "^0.2.3",
+    "ora": "^0.4.1",
     "strip-indent": "^2.0.0"
   },
   "devDependencies": {
